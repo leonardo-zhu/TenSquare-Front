@@ -1,0 +1,21 @@
+{
+  "name": "hello-nuxt",
+  "version": "1.0.0",
+  "description": "My awe-inspiring Nuxt.js project",
+  "author": "Leonardo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "element-ui": "^2.4.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
